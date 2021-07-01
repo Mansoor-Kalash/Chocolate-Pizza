@@ -1,0 +1,161 @@
+
+#inner-header 
+{
+   width: 80%;
+   height:80px;
+   background-color: white;
+   display: block;
+  margin-left: 10%;
+}
+nav ul li{
+    margin-top: 30px;
+    display: inline-block;
+}
+nav{
+    float: right;
+    
+  
+   
+}
+
+
+#logo{
+    
+
+    float: left;
+    width: 30px;
+    height: 30x;
+    margin-right: 10px;
+}
+#pc
+{
+    float: left;
+}
+#hp1
+{font-size: 20px;     
+  
+
+}
+#hp2{
+    font-size: 7px;        
+
+
+}
+.color{
+    width: 80%;
+    height: 15px;
+    margin-left: 10%;
+    background-color: #F0F0F0;
+   margin-top: 20px;
+   margin-bottom: 20px;
+
+}
+
+#print{
+    float: right;
+}
+ h1{
+    font-size: 19px;
+    margin-left: 10%;
+
+}
+ #pbelowh1{
+    font-size: 7px;
+    margin-left: 10%;
+}
+
+
+#pizzaimg
+{
+    width:80%; 
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    object-fit: cover;
+}
+
+#px3{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 10%;
+    
+}
+
+#baclist{
+    width:80%;
+    height: 200px;
+    display: block;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  
+    background-image: url("https://github.com/LTUC/amman-irbid-201d31/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+}
+
+#vandiv{
+    width: 80%;
+    margin-left: 10%;
+    height: auto;
+    margin-top: 15px;
+}
+#vanimg {
+    float: left;
+    margin-right: 10px;
+    
+}
+#vp1{
+    font-size: 16px;
+}
+#vp2{
+    font-size: 8px;
+}
+#vp3{
+    font-size: 8px;
+}
+.button1 {
+
+    border: none;
+  color: white;
+  width: auto;
+  /* padding: 12px 100px; */
+  /* text-align: center; */
+  text-decoration: none;
+  display: block;
+  font-size: 9px;
+  text-align: center;
+  margin-left: 90%;
+  cursor: pointer;
+    background-color: #4CAF50;} 
+
+    footer{
+        clear: both;
+    }
+    #footerdiv{
+        display: block;
+        width: 80%;
+        height: auto;
+        margin-left: 10%;
+        padding-bottom: 100px;
+        padding-top: 30px;
+    }
+    #lastimg{
+      
+        display: block;
+      
+        margin-left: auto;
+    margin-right: auto;
+    }
+   footer p{
+       text-align: center;
+       font-size: 8px;
+   }
+   
+
+
+    #l1{
+        float: left;
+        padding-right:60% ;
+    }
